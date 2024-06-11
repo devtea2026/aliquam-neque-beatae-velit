@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/aliquam-neque-beatae-velit",
-  "version": "5.3.34",
+  "version": "5.3.35",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -104,5 +104,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/aliquam-neque-beatae-velit/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
